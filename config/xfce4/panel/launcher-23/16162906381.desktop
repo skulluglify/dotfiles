@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Minecraft Bedrock Launcher
+Comment=A Minecraft: Bedrock Edition (earlier: Pocket Edition launcher)
+Exec=mcpelauncher
+Icon=mcpelauncher-ui-qt
+Type=Application
+Categories=Game;
+Terminal=false
+Path=
+StartupNotify=false
+X-XFCE-Source=file:///home/syafiq/.local/share/applications/mcpelauncher-ui-qt.desktop

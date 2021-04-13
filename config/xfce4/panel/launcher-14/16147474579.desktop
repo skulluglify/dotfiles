@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Version=2.20210212.0
+Name=Kite
+Comment=Kite - ML powered code completions
+Exec=/home/syafiq/.local/share/kite/kited
+Icon=/home/syafiq/.local/share/icons/hicolor/128x128/apps/kite.png
+Categories=Development;IDE;
+X-XFCE-Source=file:///home/syafiq/.local/share/applications/kite.desktop

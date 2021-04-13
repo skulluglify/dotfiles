@@ -1,0 +1,152 @@
+#pulseaudio-button * { -gtk-icon-transform: scale(.75); }
+
+.xfce4-panel.panel {
+    background-color: #235CDB;
+    background-image: url("/s/dash/panel/panel.png");
+    background-size: 1px 100%;
+}
+
+.xfce4-panel.panel button.flat, .xfce4-panel.panel button.sidebar-button {
+    color: #FFFFFF;
+    background-color: transparent;
+    background-image: url("/s/dash/panel/panel.png");
+    background-size: 1px 100%;
+    box-shadow: none;
+    border: none;
+    margin: 0px;
+    border-radius: 0px;
+}
+
+.xfce4-panel.panel button.flat:hover, .xfce4-panel.panel button.sidebar-button:hover {
+	background-color: rgba ( 255, 255, 255, 0.8);
+	background-image: url("/s/dash/panel/panel-brightness.png");
+}
+
+.xfce4-panel.panel button.flat:active, .xfce4-panel.panel button.flat:checked, .xfce4-panel.panel button.sidebar-button:active, .xfce4-panel.panel button.sidebar-button:checked {
+	background-color: rgba ( 255, 255, 255, 0.8);
+	background-image: url("/s/dash/panel/panel-brightness.png");
+}
+
+/*
+.xfce4-panel.panel button.flat:hover, .xfce4-panel.panel button.sidebar-button:hover {
+    background-color: transparent;
+    background-image: url("/s/dash/panel/hover.png");
+}
+
+.xfce4-panel.panel button.flat:active, .xfce4-panel.panel button.flat:checked, .xfce4-panel.panel button.sidebar-button:active, .xfce4-panel.panel button.sidebar-button:checked {
+    background-color: transparent;
+    background-image: url("/s/dash/panel/active.png");
+}
+
+.xfce4-panel.panel .tasklist button {
+    color: #FFFFFF;
+    background-image: url("/s/dash/panel/normal.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+.xfce4-panel.panel .tasklist button:hover {
+    background-image: url("/s/dash/panel/hover.png");
+}
+
+.xfce4-panel.panel .tasklist button:active, .xfce4-panel.panel .tasklist button:checked {
+    background-image: url("/s/dash/panel/active.png");
+}
+
+.xfce4-panel.panel .tasklist button:active:hover, .xfce4-panel.panel .tasklist button:checked:hover {
+    background-image: url("/s/dash/panel/active-hover.png");
+}
+*/
+#whiskermenu-button {
+    color: #ffffff;
+    font-weight: bold;
+    font-style: italic;
+    /*font-size: 130%;*/
+    /*margin-left: 1px;*/
+    /*border-width: 0;*/
+    margin-right: -2px;
+    padding: 1px 10px 5px 5px;
+    /*border-top-right-radius: 12px;*/
+    /*border-bottom-right-radius: 12px;*/
+    /*text-shadow: 2px 2px #000000;*/
+    background-color: transparent;
+    background-image: url("/s/dash/panel/os.png"), url("/s/dash/panel/menu-box-radius.png");
+    /*background-size: 100% 100%;*/
+    background-size: contain, 100% 100%;
+    background-repeat: no-repeat;
+}
+
+#whiskermenu-button:hover {
+    background-image: url("/s/dash/panel/os.png"), url("/s/dash/panel/menu-hover-radius.png");
+}
+
+#whiskermenu-button:active, #whiskermenu-button:checked {
+    background-image: url("/s/dash/panel/os.png"), url("/s/dash/panel/menu-active-radius.png");
+}
+
+#whiskermenu-button {
+    /*background: linear-gradient(45deg, #fdfc47 0%, #24fe41 20%, darkgreen 100%);*/
+    font-family: "Comic Sans MS", sans-serif;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, .9);
+    font-size: 20px;
+}
+
+#whiskermenu-button:hover {
+    text-decoration: none;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, .2);
+    color: #151515;
+}
+
+#whiskermenu-button:checked {
+    text-decoration: none;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, .2);
+    color: #151515;
+}
+
+#whiskermenu-window {
+    background-color: #151515;
+    color: #fff;
+}
+
+#whiskermenu-window button {
+    color: #fff;
+}
+
+#whiskermenu-window button:hover {
+    /*color: #000;*/
+}
+
+#whiskermenu-window button:checked {
+    background-color: #1a50b8;
+}
+
+#whiskermenu-window treeview {
+    /*border-radius: 4px;*/
+    border-bottom: 1px solid #151515;
+    /*box-sizing: border-box;*/
+	opacity: .8;
+}
+
+#whiskermenu-window treeview:hover {
+    background-color: #255fdc;
+    color: #fff
+}
+
+#whiskermenu-window entry {
+    /*border-radius: 8px;*/
+    /*border-color: #dcd7bc*/
+    background-color: #cfcfcf;
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
+
+#whiskermenu-window entry:focus {
+    /*border-radius: 8px;*/
+    /*border-color: #dcd7bc*/
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+    border: none;
+}
