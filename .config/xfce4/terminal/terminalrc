@@ -14,7 +14,7 @@ MiscBellUrgent=FALSE
 MiscBordersDefault=TRUE
 MiscCursorBlinks=FALSE
 MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
-MiscDefaultGeometry=80x24
+MiscDefaultGeometry=76x24
 MiscInheritGeometry=FALSE
 MiscMenubarDefault=TRUE
 MiscMouseAutohide=FALSE
@@ -38,4 +38,7 @@ MiscShowUnsafePasteDialog=TRUE
 TabActivityColor=#0f4999
 ScrollingBar=TERMINAL_SCROLLBAR_NONE
 ColorCursorUseDefault=FALSE
-
+BackgroundMode=TERMINAL_BACKGROUND_IMAGE
+BackgroundImageFile=/s/terminal.background.jpg
+BackgroundImageStyle=TERMINAL_BACKGROUND_STYLE_STRETCHED
+BackgroundImageShading=0,000000
