@@ -1,5 +1,5 @@
-favorites=exo-file-manager.desktop,libreoffice-writer.desktop,libreoffice-calc.desktop,pidgin.desktop,org.gnome.Software.desktop,exo-terminal-emulator.desktop,xfhelp4.desktop
-recent=io.bit3.WhatsAppQT.desktop,xfce4-notifyd-config.desktop,nvidia-settings.desktop,com.github.wwmm.pulseeffects.desktop,whisker menu.desktop,org.gnome.eog.desktop,mousepad.desktop,ristretto.desktop,com.wps.Office.wps.desktop,TeamSpeak3.desktop
+favorites=exo-file-manager.desktop,libreoffice-writer.desktop,libreoffice-calc.desktop,pidgin.desktop,org.gnome.Software.desktop,exo-terminal-emulator.desktop
+recent=mousepad.desktop,gnome-system-monitor.desktop,com.teamviewer.TeamViewer.desktop,org.gnome.Screenshot.desktop,com.wps.Office.prometheus.desktop,us.zoom.Zoom.desktop,io.bit3.WhatsAppQT.desktop,firefox.desktop,stacer.desktop,com.github.wwmm.pulseeffects.desktop
 button-title=\ \ xubuntu\ 
 button-icon=xubuntu-logo
 button-single-row=false

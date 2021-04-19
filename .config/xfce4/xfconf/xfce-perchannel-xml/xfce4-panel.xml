@@ -100,11 +100,6 @@
         <value type="string" value="16147474327.desktop"/>
       </property>
     </property>
-    <property name="plugin-13" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="16147474468.desktop"/>
-      </property>
-    </property>
     <property name="plugin-14" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="16147474579.desktop"/>
@@ -123,6 +118,40 @@
     <property name="plugin-19" type="string" value="pager"/>
     <property name="plugin-21" type="string" value="statusnotifier">
       <property name="known-items" type="array">
+        <value type="string" value="dropbox-client-8323"/>
+        <value type="string" value="TeamViewer"/>
+        <value type="string" value="dropbox-client-31404"/>
+        <value type="string" value="dropbox-client-4931"/>
+        <value type="string" value="dropbox-client-5031"/>
+        <value type="string" value="dropbox-client-18957"/>
+        <value type="string" value="dropbox-client-6826"/>
+        <value type="string" value="dropbox-client-8660"/>
+        <value type="string" value="dropbox-client-172161"/>
+        <value type="string" value="dropbox-client-7698"/>
+        <value type="string" value="dropbox-client-145625"/>
+        <value type="string" value="dropbox-client-61688"/>
+        <value type="string" value="dropbox-client-6782"/>
+        <value type="string" value="dropbox-client-4944"/>
+        <value type="string" value="dropbox-client-63483"/>
+        <value type="string" value="dropbox-client-4927"/>
+        <value type="string" value="dropbox-client-6805"/>
+        <value type="string" value="dropbox-client-5795"/>
+        <value type="string" value="dropbox-client-267962"/>
+        <value type="string" value="dropbox-client-102355"/>
+        <value type="string" value="dropbox-client-7787"/>
+        <value type="string" value="dropbox-client-30112"/>
+        <value type="string" value="dropbox-client-5662"/>
+        <value type="string" value="dropbox-client-34806"/>
+        <value type="string" value="dropbox-client-28261"/>
+        <value type="string" value="dropbox-client-6967"/>
+        <value type="string" value="discord1"/>
+        <value type="string" value="dropbox-client-18518"/>
+        <value type="string" value="dropbox-client-9787"/>
+        <value type="string" value="dropbox-client-5785"/>
+        <value type="string" value="dropbox-client-7770"/>
+        <value type="string" value="dropbox-client-5789"/>
+        <value type="string" value="dropbox-client-8169"/>
+        <value type="string" value="dropbox-client-5865"/>
         <value type="string" value="dropbox-client-7221"/>
         <value type="string" value="dropbox-client-7190"/>
         <value type="string" value="dropbox-client-7541"/>
@@ -298,7 +327,7 @@
     </property>
     <property name="plugin-10" type="string" value="pulseaudio">
       <property name="enable-keyboard-shortcuts" type="bool" value="true"/>
-      <property name="mpris-players" type="string" value="chrome.instance10087;chrome.instance10590;chrome.instance107170;chrome.instance11223;chrome.instance11536;chrome.instance12615;chrome.instance12653;chrome.instance12837;chrome.instance140824;chrome.instance14197;chrome.instance15545;chrome.instance16440;chrome.instance17653;chrome.instance18064;chrome.instance18334;chrome.instance18466;chrome.instance19526;chrome.instance19834;chrome.instance20180;chrome.instance205619;chrome.instance20724;chrome.instance22279;chrome.instance23154;chrome.instance23296;chrome.instance236617;chrome.instance25522;chrome.instance27588;chrome.instance27696;chrome.instance31935;chrome.instance32649;chrome.instance332430;chrome.instance34363;chrome.instance35920;chrome.instance38390;chrome.instance44020;chrome.instance45326;chrome.instance48122;chrome.instance50094;chrome.instance51011;chrome.instance51824;chrome.instance56988;chrome.instance62958;chrome.instance7213;chrome.instance784773;chrome.instance790959;chrome.instance8109;chrome.instance8186;chrome.instance8200;chrome.instance8692;chrome.instance9394;chrome.instance9463;edge.instance31376;headset;rhythmbox;vlc"/>
+      <property name="mpris-players" type="string" value="chrome.instance10087;chrome.instance10590;chrome.instance107170;chrome.instance11223;chrome.instance11536;chrome.instance12615;chrome.instance12653;chrome.instance12837;chrome.instance140824;chrome.instance14197;chrome.instance15545;chrome.instance16440;chrome.instance17653;chrome.instance18064;chrome.instance18334;chrome.instance18466;chrome.instance19526;chrome.instance19834;chrome.instance20180;chrome.instance205619;chrome.instance20724;chrome.instance22279;chrome.instance22564;chrome.instance23154;chrome.instance23296;chrome.instance236617;chrome.instance25522;chrome.instance27588;chrome.instance27696;chrome.instance31935;chrome.instance32649;chrome.instance332430;chrome.instance34363;chrome.instance35920;chrome.instance38390;chrome.instance41062;chrome.instance42256;chrome.instance44020;chrome.instance45326;chrome.instance48122;chrome.instance50094;chrome.instance51011;chrome.instance51824;chrome.instance56988;chrome.instance62958;chrome.instance7213;chrome.instance784773;chrome.instance790959;chrome.instance8109;chrome.instance8186;chrome.instance8200;chrome.instance8692;chrome.instance9394;chrome.instance9463;chromium.instance61896;chromium.instance641156;edge.instance31376;headset;rhythmbox;vlc"/>
     </property>
     <property name="plugin-22" type="string" value="tasklist">
       <property name="flat-buttons" type="bool" value="true"/>
@@ -330,7 +359,7 @@
     </property>
     <property name="plugin-23" type="string" value="launcher">
       <property name="items" type="array">
-        <value type="string" value="16162906381.desktop"/>
+        <value type="string" value="16184754274.desktop"/>
       </property>
     </property>
     <property name="plugin-27" type="string" value="separator"/>
@@ -342,6 +371,11 @@
       <property name="new-window" type="empty">
         <property name="width" type="int" value="270"/>
         <property name="height" type="int" value="337"/>
+      </property>
+    </property>
+    <property name="plugin-13" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="16187930871.desktop"/>
       </property>
     </property>
   </property>

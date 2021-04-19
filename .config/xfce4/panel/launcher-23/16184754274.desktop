@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Minecraft Bedrock Launcher
 Comment=A Minecraft: Bedrock Edition (earlier: Pocket Edition launcher)
-Exec=mcpelauncher
+Exec=/home/syafiq/bin/mcpelauncher -d
 Icon=mcpelauncher-ui-qt
 Type=Application
 Categories=Game;
