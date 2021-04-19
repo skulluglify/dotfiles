@@ -17,7 +17,6 @@
       <property name="nrows" type="uint" value="1"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="9"/>
-        <value type="int" value="12"/>
         <value type="int" value="13"/>
         <value type="int" value="14"/>
         <value type="int" value="15"/>
@@ -67,6 +66,7 @@
   <property name="plugins" type="empty">
     <property name="plugin-4" type="string" value="systray">
       <property name="names-ordered" type="array">
+        <value type="string" value="onboard"/>
         <value type="string" value="whatsdesk"/>
         <value type="string" value="skypeforlinux"/>
         <value type="string" value="gigolo"/>
@@ -95,11 +95,6 @@
     <property name="plugin-6" type="string" value="power-manager-plugin"/>
     <property name="plugin-7" type="string" value="notification-plugin"/>
     <property name="plugin-8" type="string" value="showdesktop"/>
-    <property name="plugin-12" type="string" value="launcher">
-      <property name="items" type="array">
-        <value type="string" value="16147474327.desktop"/>
-      </property>
-    </property>
     <property name="plugin-14" type="string" value="launcher">
       <property name="items" type="array">
         <value type="string" value="16147474579.desktop"/>
@@ -118,6 +113,9 @@
     <property name="plugin-19" type="string" value="pager"/>
     <property name="plugin-21" type="string" value="statusnotifier">
       <property name="known-items" type="array">
+        <value type="string" value="dropbox-client-33524"/>
+        <value type="string" value="dropbox-client-6771"/>
+        <value type="string" value="dropbox-client-27737"/>
         <value type="string" value="dropbox-client-8323"/>
         <value type="string" value="TeamViewer"/>
         <value type="string" value="dropbox-client-31404"/>
